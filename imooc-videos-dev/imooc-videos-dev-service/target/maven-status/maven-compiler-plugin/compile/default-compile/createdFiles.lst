@@ -1,0 +1,8 @@
+com\imooc\serviceimpl\BgmServiceImpl.class
+com\imooc\service\BgmService.class
+com\imooc\serviceimpl\UserServiceImple.class
+com\imooc\service\VideoService.class
+com\imooc\serviceimpl\VideoServiceImpl.class
+com\imooc\serviceimpl\RegistServiceImpl.class
+com\imooc\service\RegistService.class
+com\imooc\service\UserService.class
