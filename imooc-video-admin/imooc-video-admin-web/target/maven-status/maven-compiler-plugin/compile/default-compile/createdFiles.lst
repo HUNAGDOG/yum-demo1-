@@ -1,0 +1,4 @@
+com\imooc\controller\HelloController.class
+com\imooc\controller\VideoController.class
+com\imooc\intercepter\LoginInterceptor.class
+com\imooc\controller\UsersController.class
