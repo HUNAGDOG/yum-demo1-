@@ -1,0 +1,23 @@
+{
+  "pages": [
+    
+    "pages/index/index",
+    "pages/videoInfo/videoInfo",    
+    "pages/loginUser/loginUser",
+    "pages/chooseBgm/chooseBgm",   
+    "pages/mine/mine",    
+    "pages/userRegister/userRgister" ,
+    "pages/report/report",
+    "pages/searchVideo/searchVideo"  
+    
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "yum短视频",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "debug":false
+}
